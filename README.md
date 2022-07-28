@@ -36,3 +36,11 @@ Gets all the vehicles available in page 1 of the Starwars API.
 ### GET /vehicles/:id
 
 Obtains a vehicle given its id.
+
+### GET /people
+
+Gets all the people available in page 1 of the Starwars API.
+
+### GET /people/:id
+
+Obtains a information about a person given their id.
