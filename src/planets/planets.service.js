@@ -2,7 +2,7 @@ const axios = require("axios");
 const { host, port, downstream } = require('../config');
 
 
-async function getPlanets(id) {
+async function getPlanets() {
   try {
     const planets = await axios.get('/planets');
     var planetsRes = JSON.stringify(planets.data.results);

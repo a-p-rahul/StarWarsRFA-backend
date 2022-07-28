@@ -2,7 +2,7 @@ const axios = require("axios");
 const { host, port, downstream } = require('../config');
 
 
-async function getSpecies(id) {
+async function getSpecies() {
   try {
     const species = await axios.get('/species');
     var speciesRes = JSON.stringify(species.data.results);

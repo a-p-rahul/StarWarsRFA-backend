@@ -21,3 +21,18 @@ Gets all the planets available in page 1 of the Starwars API.
 
 Obtains a planet given its id.
 
+### GET /species
+
+Gets all the species available in page 1 of the Starwars API.
+
+### GET /species/:id
+
+Obtains a species given its id.
+
+### GET /vehicles
+
+Gets all the vehicles available in page 1 of the Starwars API.
+
+### GET /vehicles/:id
+
+Obtains a vehicle given its id.
