@@ -44,3 +44,15 @@ Gets all the people available in page 1 of the Starwars API.
 ### GET /people/:id
 
 Obtains a information about a person given their id.
+
+## Time breakdown
+
+The tasks in this table are arranges in the order they were implemented. Times are approximate.
+
+| Time taken (hrs)   | Task                                                          |
+| ------------------ | ------------------------------------------------------------- |
+| 1:00               | Project setup RFA-5: list planets                             |
+| 0:05 - 0:07        | RFA-4: list species                                           |
+| 0:05 - 0:07        | RFA-4: list vehicles                                          |
+| 0:05 - 0:07        | RFA-4: list people                                            |
+| 0:02               | RFA-1: Readme changes                                         |
