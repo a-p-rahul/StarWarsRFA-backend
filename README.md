@@ -9,7 +9,7 @@ A simple backend for the front end that acts as a proxy for [the StarWars API](h
 
 3.  Go to the project's root directory **cd /my/path/to/directory**
 4.  Run **npm install**
-5.  Start using it! **npm start**
+5.  Start using it! **npm start**. By default, you can access the API at ` http://localhost:3001`. You can change this location by editing the `host` and `port` properties in the `src/config.js` file.
 
 ## Available end-points
 
